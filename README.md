@@ -15,7 +15,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# Flutter Code Lab first app part1
+# Flutter Code Lab first app part1（和訳）
 
 ## このCodeLabの説明
 このコードラボでは、シンプルなモバイルFlutterアプリを作成します。
@@ -199,7 +199,7 @@ return Scaffold (
 home: RandomWords()
 ```
 
-# Flutter Code Lab first app part2
+# Flutter Code Lab first app part2（和訳）
 
 ## 1.CodeLabの説明
 このコードラボでは、part1のアプリを拡張して、インタラクティブ機能を組み込みます。
